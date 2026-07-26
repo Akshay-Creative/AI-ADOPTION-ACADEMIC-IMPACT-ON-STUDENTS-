@@ -12,15 +12,16 @@ Based on the dataset of **100 student responses**, the analysis reveals the foll
 * **Top AI Tool (College-Level):** Gemini (9 users), followed by ChatGPT (6).
 * **Primary AI Use Cases:** Research (14), Coding (13), and Homework (13).
 
+
 ## 🗂️ Repository Contents
-* `GP-01-students_ai_usage.csv` (or `.xlsx`): The raw dataset containing 100 records of student study habits, screen time, and grade data (before and after AI adoption).
-* `DV Presentation Dashboard.pbix`: The interactive Power BI report file containing the data model, DAX calculations, and visual dashboards.
+* **`GP-01-students_ai_usage.csv`** – The raw survey data tracking 100 students' study habits, screen time, and grades.
+* **`DV Presentation Dashboard.pbix`** – The completed Power BI file containing all visual dashboards and data models.
 
 ## 🛠️ Technology Stack
-* **Data Visualization & Modeling:** Microsoft Power BI
+* **Data Visualization:** Microsoft Power BI
 * **Data Source:** Microsoft Excel / CSV
 
 ## 🚀 How to View the Dashboard
-1. Clone this repository to your local machine:
-   ```bash
-   git clone [https://github.com/YourUsername/your-repo-name.git](https://github.com/YourUsername/your-repo-name.git)
+1. Click the green **<> Code** button at the top right of this repository.
+2. Select **Download ZIP** and extract the folder to your computer.
+3. Open the `DV Presentation Dashboard.pbix` file using Power BI Desktop.
